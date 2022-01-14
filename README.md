@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/souhailharrati/souhailharrati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souhailharrati&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051"  alt="Souhail HARRATI GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souhailharrati&count_private=true&show_icons=true"  alt="Souhail HARRATI GitHub Stats" />
 </a>
